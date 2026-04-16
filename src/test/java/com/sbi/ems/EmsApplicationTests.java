@@ -20,7 +20,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 /**
  * Integration tests for the EMS API.
- *
+ * test
  * DevSecOps: These tests verify the SECURITY CONTRACT of the application — not
  * just functional correctness. Key scenarios:
  *
