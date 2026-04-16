@@ -35,9 +35,9 @@
         <springdoc.version>2.5.0</springdoc.version>
         <!-- SonarQube configuration -->
         <sonar.organization>anilvasuniya</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectKey>anilvasuniya</sonar.projectKey>
-        <sonar.projectName>SBI Employee Management System</sonar.projectName>
+		<sonar.host.url>https://sonarcloud.io/project/overview?id=anilvasuniya_Anil_new</sonar.host.url>
+        <sonar.projectKey>anilvasuniya_Anil_new</sonar.projectKey>
+        <sonar.projectName>Anil_new</sonar.projectName>
         <sonar.java.source>17</sonar.java.source>
         <sonar.exclusions>**/test/**,**/generated/**</sonar.exclusions>
     </properties>
