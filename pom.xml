@@ -36,7 +36,7 @@
         <!-- SonarQube configuration -->
         <sonar.organization>anilvasuniya</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io/project/overview?id=anilvasuniya_Anil_new</sonar.host.url>
-        <sonar.projectKey>anilvasuniya_Anil_new</sonar.projectKey>
+        <sonar.projectKey>anilvasuniya1997_Anil_new</sonar.projectKey>
         <sonar.projectName>Anil_new</sonar.projectName>
         <sonar.java.source>17</sonar.java.source>
         <sonar.exclusions>**/test/**,**/generated/**</sonar.exclusions>
